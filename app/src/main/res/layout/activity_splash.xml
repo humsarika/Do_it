@@ -9,6 +9,5 @@
         android:layout_height="150dp"
         android:src = "@drawable/check"
         android:layout_centerInParent="true">
-
     </ImageView>
 </RelativeLayout>
